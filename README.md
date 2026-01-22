@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello,
+# I'm Ben Johansen, a student in the BYU Pathways program studying software development.
 
-<!--
-**johansenben/johansenben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I started learning programming in 2020, when I started learning C++ and i Started my software development degree through BYU Pathways at the beginning of 2024.
+- In my free time, I have also learned about computer hardware and networking and I am constantly providing IT support for my friends and family.
+- Some of my other hobbies include reading, playing video games and kayaking.
 
-Here are some ideas to get you started:
+## Technologies, Tools & Skills
+- Languages/Frameworks: C++, C, Java, C#, Python, Javascript, CSS, HTML, Tailwind CSS, React JS, Typescript, SQL
+- Other Tools: Docker, CMake, Windows, Mac OS, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+- [My LinkedIn](https://www.linkedin.com/in/benjamin-johansen-82a7b2257/)
