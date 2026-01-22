@@ -1,5 +1,5 @@
 ## Hello,
-# I'm Ben Johansen, a student in the BYU Pathways program studying software development.
+I'm Ben Johansen, a student in the BYU Pathways program studying software development.
 
 ## About Me
 - I started learning programming in 2020, when I started learning C++ and i Started my software development degree through BYU Pathways at the beginning of 2024.
