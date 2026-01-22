@@ -10,5 +10,9 @@
 - Languages/Frameworks: C++, C, Java, C#, Python, Javascript, CSS, HTML, Tailwind CSS, React JS, Typescript, SQL
 - Other Tools: Docker, CMake, Windows, Mac OS, Linux
 
+## My Work
+- [Old Portfolio](https://github.com/johansenben/portfolio) (I'm currently working on a new portfolio website using Next JS that I will host locally in my homelab)
+- [Personal Github Organization for School](https://github.com/johansenben-school)
+
 ## Let's Connect
 - [My LinkedIn](https://www.linkedin.com/in/benjamin-johansen-82a7b2257/)
